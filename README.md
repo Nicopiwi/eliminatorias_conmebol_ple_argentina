@@ -1,6 +1,6 @@
 # Modelo PLE Eliminatorias Conmebol
 
-Modelo de programación lineal entera que chequea si Argentina está matemáticamente clasificado para la Copa Mundial 2026
+Modelo de programación lineal entera que chequea si Argentina está matemáticamente clasificada para la Copa Mundial 2026
 
 # Preguntas interesantes (última fecha: 15/10/2024)
 
