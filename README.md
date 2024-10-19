@@ -4,15 +4,17 @@ Modelo de programación lineal entera que chequea si Argentina está matemática
 
 # Preguntas interesantes (última fecha: 15/10/2024)
 
-- ¿Argentina está clasificado?
+- ¿Argentina está clasificada?
 
 No
 
 - ¿Cuántos puntos tendría que haber tenido Argentina para clasificar?
 
-26 puntos
+32 puntos
 
 - ¿A Argentina le alcanza con ganar en la próxima fecha para clasificar?
+
+No
 
 # Modelo
 
