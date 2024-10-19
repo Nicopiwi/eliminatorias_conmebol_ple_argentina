@@ -24,6 +24,9 @@ $$
 \delta_k = 1 \ \text{sii la k-esima combinacion se cumple}
 $$
 
+(Para que Argentina no tenga garantizada la clasificación, debe haber alguna forma para que alguna combinación de 6 países terminen por arriba de Argentina. 
+En este caso, tenemos  $\binom{9}{6} = 84$ combinaciones).
+
 $$
 home_i = 1 \ \text{sii el equipo local del i-esimo partido gana}
 $$
@@ -39,7 +42,7 @@ $$
 ## Problema
 
 $$
-max \ \delta_1 \\
+max \ \delta_1 + ... + \delta_{84} \\
 $$
 
 Sujeto a
