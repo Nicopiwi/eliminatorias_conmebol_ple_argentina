@@ -6,7 +6,7 @@ Modelo de programación lineal entera que chequea si Argentina está matemática
 
 - ¿Argentina está clasificada?
 
-No
+No. ¡Incluso podría quedar última!
 
 - ¿Cuántos puntos tendría que haber tenido Argentina para clasificar?
 
